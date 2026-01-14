@@ -78,8 +78,7 @@ RAG-system-for-10MS/
 # ⚙️ Installation
 ## 1. Clone the repo :
 ```
-git clone <your‑repo‑url> RAG-system-for-10MS
-cd RAG-system-for-10MS
+git clone https://github.com/Sabuj-Majumder/RAG-system-for-10MS
 ```
 ## 2. Create & activate a virtual environment
 ```
